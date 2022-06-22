@@ -1,4 +1,4 @@
-job('Seed All') {
+job('git_11') {
   scm {
     git ('https://github.com/robinbowes/jenkins-job-dsl-seed-all-demo.git')
   }
